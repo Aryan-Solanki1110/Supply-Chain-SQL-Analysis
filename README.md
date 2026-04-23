@@ -112,7 +112,7 @@ Haircare is identified as the worst-performing category based on lead time, defe
 ##### 📂 Files Included
 
 * `queries.sql`:- SQL queries used for analysis
-* `Screenshots`:- 
+* `dashboard.png`:- Preview of the dashboard
 
 
 
